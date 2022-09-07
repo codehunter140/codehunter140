@@ -5,7 +5,7 @@ I have a great interest in blockchain technologies and created several dApps usi
 
 ### Skills I have
 - Android, iOS, React Native, Xamarin, Flutter, IONIC 
-- React, Vue, Angular, Javascript, Typescript
-- Rust, Solidity, C/C++, Web3, Metamask, Infura, IPFS
+- React, Next, Vue, Angular, Javascript, Typescript, Node, PHP
+- Solidity, C/C++, Web3.js, Ethers, Truffle, Remix, Ganache, Metamask, Infura, IPFS, Etheruem, Polygn, BSC
 - MySQL, PostgreSQL, Firebase, GCP, AWS, MongoDB
 
