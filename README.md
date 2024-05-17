@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm a full-stack developer having around 7 years of professional experience across the diverse fields of software development. 
-I'm skilled in developing mobile apps, and web apps using Android, iOS, React Native, Xamarin, Flutter, IONIC, Vue, Angular, PHP, Node Python. 
-I have a great interest in blockchain technologies and created several dApps using web3, Solidity
+I'm passionate about creating robust and scalable applications, particularly in the blockchain space. Over the years, I've developed a variety of web and mobile applications, from small business solutions to enterprise-level products. My expertise lies in leveraging modern technologies to build efficient and user-friendly applications.
 
 ### Skills I have
 ### Blockchain Technologies
