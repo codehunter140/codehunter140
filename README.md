@@ -78,5 +78,6 @@ I have a great interest in blockchain technologies and created several dApps usi
 &nbsp;
 <img src="https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=FFCB2B" alt="firebase logo" title="firebase" height="20" />
 &nbsp;
-  
+## Let's Connect
+Feel free to reach out if you'd like to collaborate on a project or just want to chat about the latest in tech!
 
