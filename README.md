@@ -4,10 +4,25 @@ I'm skilled in developing mobile apps, and web apps using Android, iOS, React Na
 I have a great interest in blockchain technologies and created several dApps using web3, Solidity
 
 ### Skills I have
-- Android, iOS, React Native, Xamarin, Flutter, IONIC 
-- React, Next, Vue, Angular, Javascript, Typescript, Node, PHP
-- Solidity, C/C++, Web3.js, Ethers, Wagmi, Connecktit, Hardhat, Truffle, Remix, Ganache, Metamask, Infura, IPFS, Etheruem, Polygn, BSC
-- MySQL, PostgreSQL, Firebase, GCP, AWS, MongoDB
+### Blockchain Technologies
+- **Smart Contracts**: Solidity, Web3.js, Ethers.js, Rust, C++
+- **Frameworks**: Hardhat, Truffle, Ganache, Anchor
+- **Libraries**: OpenZeppelin, ConnectKit, Wagmi
+- **Networks**: Ethereum, Avalanche, Harmony, Solana
+- **Tools**: Infura, IPFS, Metamask, Solana CLI, Solana Program Library
+
+### Front-end Development
+- **Frameworks**: Next.js, React, Vue, Angular,Typescript
+- **Libraries**: TailwindCSS, StyledComponent, MUI, Radix-UI. Chart.js, Apollo
+- **UI/UX**: Responsive design, Interactive graphs, User interactivity
+
+### Mobile App Development
+- **Cross-Platform**: React Native, Xamarin, Flutter, IONIC
+- **Native**: Android (Java, Kotlin), iOS (Swift, Objective C)
+
+### Cloud and Database Solutions
+- **Cloud**: AWS, GCP, Azure, Firebase
+- **Databases**: MySQL, PostgreSQL, MongoDB, GraphQL
 
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
 &nbsp;
